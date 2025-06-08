@@ -1,8 +1,8 @@
 [gd_scene load_steps=2 format=3 uid="uid://budphc787dugo"]
 
-[ext_resource type="Texture2D" uid="uid://bmcqx8rg3memy" path="res://Assets/Background/Tileset_Grass.png" id="1_r150o"]
+[ext_resource type="Texture2D" uid="uid://co2koctfem0rp" path="res://Assets/Background/Gray.png" id="1_r150o"]
 
-[node name="Control" type="Control"]
+[node name="Main" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
