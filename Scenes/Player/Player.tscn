@@ -1,6 +1,7 @@
-[gd_scene load_steps=6 format=3 uid="uid://b1ktwp1yg64yb"]
+[gd_scene load_steps=7 format=3 uid="uid://b1ktwp1yg64yb"]
 
 [ext_resource type="Texture2D" uid="uid://i1bl0vl61hua" path="res://Assets/Player/rabbit jump spritesheet.png" id="1_s0eop"]
+[ext_resource type="PackedScene" uid="uid://d13hosjo0yiqa" path="res://Scenes/PlayerCam/PlayerCam.tscn" id="2_ft8w5"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_s0eop"]
 radius = 6.0
@@ -57,3 +58,5 @@ shape = SubResource("CapsuleShape2D_s0eop")
 libraries = {
 &"": SubResource("AnimationLibrary_h54ih")
 }
+
+[node name="PlayerCam" parent="." instance=ExtResource("2_ft8w5")]

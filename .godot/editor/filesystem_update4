@@ -1,2 +1,4 @@
 res://Scenes/Main.tscn
 res://Scenes/Player/Player.tscn
+res://Scenes/LevelBase/LevelBase.tscn
+res://Scenes/PlayerCam/PlayerCam.tscn
