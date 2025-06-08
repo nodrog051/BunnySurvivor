@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1749386254
+::res://::1749396248
 icon.svg::CompressedTexture2D/CompressedTexture2D::892056391772215472::1749381676::1749382237::1::::<><><>0<>0<>fe9fe0e5cf453d5a5269c27737758731<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Assets/::1749381731
+::res://Assets/::1749396219
 ::res://Assets/Background/::1749383043
 background_rock_a.png::CompressedTexture2D/CompressedTexture2D::5298643254672618231::1749382187::1749382237::1::::<><><>0<>0<>dfbb822c0678e7ac7a0fbccc876faf15<>res://.godot/imported/background_rock_a.png-0d90c6ca55d2bc07fe807db4d323de17.ctex::
 background_rock_b.png::CompressedTexture2D/CompressedTexture2D::7739866092733229198::1749382187::1749382237::1::::<><><>0<>0<>afe91aff31448c5c3246dac9e235090c<>res://.godot/imported/background_rock_b.png-49e6c58aa446bb2c96f474d8b731d235.ctex::
@@ -12,21 +12,24 @@ tilemap.png::CompressedTexture2D/CompressedTexture2D::6468696132889718744::17493
 tilemap_packed.png::CompressedTexture2D/CompressedTexture2D::84763847621955606::1749382564::1749382564::1::::<><><>0<>0<>2856a8e3a150acf127a03b50fc594256<>res://.godot/imported/tilemap_packed.png-0e5f6b74d226a4459cac2428c128569f.ctex::
 ::res://Assets/Bosses/::1749380860
 ::res://Assets/Enemys/::1749380850
+::res://Assets/MainMenu/::1749396248
+MainMenu.png::CompressedTexture2D::73976344912904523::1749396227::1749396249::1::::<><><>0<>0<>27cedc5ef3ac9b1c8670da5afedf9b8d<>res://.godot/imported/MainMenu.png-edcab10ab98c8a859aa2fa25f83ee93d.ctex::
 ::res://Assets/Player/::1749382284
 rabbit jump spritesheet.png::CompressedTexture2D/CompressedTexture2D::615266277502426660::1749381676::1749382284::1::::<><><>0<>0<>6a271e9dd1829e40f0c5c2c19de75d45<>res://.godot/imported/rabbit jump spritesheet.png-a4cb21f3509fc0662437a33fc343da6e.ctex::
+::res://Classes/::1749386572
 ::res://Data/::1749380680
 ::res://Globals/::1749381731
 GameManager.gd::GDScript/GDScript::8941960460899894863::1749381326::0::1::::<>Node<><>0<>0<><>::
 SignalHub.gd::GDScript/GDScript::7534750321418557765::1749381339::0::1::::<>Node<><>0<>0<><>::
 ::res://Resources/::1749380702
-::res://Scenes/::1749386519
-Main.tscn::PackedScene::3797314101187473890::1749386519::0::1::::<><><>0<>0<><>::uid://co2koctfem0rp::::res://Assets/Background/Gray.png
+::res://Scenes/::1749386564
 ::res://Scenes/LevelBase/::1749386536
-LevelBase.tscn::PackedScene::4477640706932728100::1749386536::0::1::::<><><>0<>0<><>::uid://bmcqx8rg3memy::::res://Assets/Background/Tileset_Grass.png<>uid://b1ktwp1yg64yb::::res://Scenes/Player/Player.tscn
-::res://Scenes/Main/::0
+LevelBase.tscn::PackedScene/PackedScene::4477640706932728100::1749386536::0::1::::<><><>0<>0<><>::uid://bmcqx8rg3memy::::res://Assets/Background/Tileset_Grass.png<>uid://b1ktwp1yg64yb::::res://Scenes/Player/Player.tscn
+::res://Scenes/Main/::1749386564
+Main.tscn::PackedScene/PackedScene::3797314101187473890::1749386519::0::1::::<><><>0<>0<><>::uid://co2koctfem0rp::::res://Assets/Background/Gray.png
 ::res://Scenes/Player/::1749386519
-Player.gd::GDScript::3864906161225414983::1749385833::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
-Player.tscn::PackedScene::4233168135265899261::1749386519::0::1::::<><><>0<>0<><>::uid://bvcgo7od7sdrj::::res://Scenes/Player/Player.gd<>uid://i1bl0vl61hua::::res://Assets/Player/rabbit jump spritesheet.png<>uid://d13hosjo0yiqa::::res://Scenes/PlayerCam/PlayerCam.tscn
+Player.gd::GDScript/GDScript::3864906161225414983::1749385833::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+Player.tscn::PackedScene/PackedScene::4233168135265899261::1749386519::0::1::::<><><>0<>0<><>::uid://bvcgo7od7sdrj::::res://Scenes/Player/Player.gd<>uid://i1bl0vl61hua::::res://Assets/Player/rabbit jump spritesheet.png<>uid://d13hosjo0yiqa::::res://Scenes/PlayerCam/PlayerCam.tscn
 ::res://Scenes/PlayerCam/::1749386520
-PlayerCam.gd::GDScript::4119828931784774618::1749386079::0::1::::<>Camera2D<><>0<>0<><>::
-PlayerCam.tscn::PackedScene::9042425542839852432::1749386520::0::1::::<><><>0<>0<><>::uid://byxw8ltgli507::::res://Scenes/PlayerCam/PlayerCam.gd
+PlayerCam.gd::GDScript/GDScript::4119828931784774618::1749386079::0::1::::<>Camera2D<><>0<>0<><>::
+PlayerCam.tscn::PackedScene/PackedScene::9042425542839852432::1749386520::0::1::::<><><>0<>0<><>::uid://byxw8ltgli507::::res://Scenes/PlayerCam/PlayerCam.gd
