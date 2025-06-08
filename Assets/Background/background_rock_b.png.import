@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://i1bl0vl61hua"
-path="res://.godot/imported/rabbit jump spritesheet.png-a4cb21f3509fc0662437a33fc343da6e.ctex"
+uid="uid://dijip1c10y8le"
+path="res://.godot/imported/background_rock_b.png-49e6c58aa446bb2c96f474d8b731d235.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Player/rabbit jump spritesheet.png"
-dest_files=["res://.godot/imported/rabbit jump spritesheet.png-a4cb21f3509fc0662437a33fc343da6e.ctex"]
+source_file="res://Assets/Background/background_rock_b.png"
+dest_files=["res://.godot/imported/background_rock_b.png-49e6c58aa446bb2c96f474d8b731d235.ctex"]
 
 [params]
 
