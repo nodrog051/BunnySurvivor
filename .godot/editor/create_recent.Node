@@ -1,5 +1,6 @@
-Camera2D
+AnimationTree
 TileMapLayer
+Camera2D
 AnimationPlayer
 CollisionShape2D
 Sprite2D

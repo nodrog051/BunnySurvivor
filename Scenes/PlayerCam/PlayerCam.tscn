@@ -3,5 +3,5 @@
 [ext_resource type="Script" uid="uid://byxw8ltgli507" path="res://Scenes/PlayerCam/PlayerCam.gd" id="1_x3erf"]
 
 [node name="PlayerCam" type="Camera2D"]
-zoom = Vector2(2.3, 2.3)
+zoom = Vector2(1.5, 1.5)
 script = ExtResource("1_x3erf")

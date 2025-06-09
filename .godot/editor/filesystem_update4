@@ -3,3 +3,4 @@ res://Scenes/Main.tscn
 res://Scenes/Player/Player.tscn
 res://Scenes/PlayerCam/PlayerCam.tscn
 res://Scenes/Main/Main.tscn
+res://Scenes/Player/Player.gd
